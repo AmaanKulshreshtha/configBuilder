@@ -1,0 +1,15 @@
+{
+  "name": "configGenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
